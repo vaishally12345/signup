@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769255403766",
+    "firebase_url": "https://signup-5b19d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "signup-5b19d",
+    "storage_bucket": "signup-5b19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769255403766:android:da14b96c2bc70e40803cd7",
+        "android_client_info": {
+          "package_name": "com.techmania.captureimage1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769255403766-041o366ho9gs7r61flbh556ta3hbhlco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwyQVq2UPfL2-AzvVKSUOnCf3inYzU3jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769255403766-041o366ho9gs7r61flbh556ta3hbhlco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
